@@ -4,4 +4,4 @@
 git clone https://github.com/MBLEGENDx/JSKICKER
 
 อัพโหลดโดย
-https://line.me/ti/p/~gormairusi2
+http://line.me/ti/p/gySdKuseOC
